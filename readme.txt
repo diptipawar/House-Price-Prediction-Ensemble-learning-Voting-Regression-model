@@ -1,4 +1,4 @@
-This is the kaggele problem:
+This is the kaggle problem:
 
 House Prices: Advanced Regression Techniques
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/notebooks
